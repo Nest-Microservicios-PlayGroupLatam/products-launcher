@@ -7,3 +7,6 @@
 [submodule "products-microservicios"]
 	path = products-microservicios
 	url = https://github.com/Nest-Microservicios-PlayGroupLatam/products-microservicios.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/Nest-Microservicios-PlayGroupLatam/auth-ms.git
